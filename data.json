@@ -1,0 +1,21 @@
+[{ "User" : {
+    "birthday":"",
+    "phone":"09999999",
+    "country":"UY",
+    "city":"Montevideo",
+    "sex":"1",
+    "language":"",
+    "last_name":"Gonzalez",
+    "first_name":"Leandro",
+    "email":"test@gmail.com",
+    "promotion_id":"915030",
+    "CustomFields" : [
+        {"title":"acepto", "value": "1"},
+        {"title":"Telefono", "value": "59895317127"},
+        {"title":"Direccion", "value": "Test Street"},
+        {"title":"codigo", "value": "11400"},
+        {"title":"provincia", "value": "Montevideo"},
+        {"title":"campaignId", "value": "7013X0000015edSQAQ"}]
+} 
+    
+}]
