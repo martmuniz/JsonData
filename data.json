@@ -1,4 +1,4 @@
-[{ "User" : {
+{ "User" : {
     "birthday":"",
     "phone":"09999999",
     "country":"UY",
@@ -18,4 +18,4 @@
         {"title":"campaignId", "value": "7013X0000015edSQAQ"}]
 } 
     
-}]
+}
